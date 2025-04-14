@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from Tunisia</h3>
+<h3 align="center">A passionate Software Engineering student  from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 - 🌱 I’m currently learning **React and Bootstrap**
